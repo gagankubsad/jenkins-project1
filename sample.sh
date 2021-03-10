@@ -1,2 +1,2 @@
-echo "This is sample file"
-echo $date > sample.txt
+echo "This is sample file" > sample.txt
+echo "$date" >> sample.txt
